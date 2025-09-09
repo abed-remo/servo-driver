@@ -2,7 +2,7 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <sys/ioctl.h>
-#include "include/servo_uapi.h"
+#include "servo_uapi.h"
 
 int main(int argc, char **argv)
 {

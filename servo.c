@@ -10,7 +10,7 @@
 #include <linux/mutex.h>
 #include <linux/workqueue.h>
 
-#include "include/servo_uapi.h"
+#include "servo_uapi.h"
 
 #define SERVO_DEVICE_NAME  "servo0"
 #define SERVO_CLASS_NAME   "servo_class"
